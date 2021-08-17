@@ -3,7 +3,7 @@
   <a href="https://github.com/EzeDavid"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzeDavid&hide=html,scss&langs_count=10&layout=compact&theme=tokyonight">
 </p>
     
-## My repos
+## My Repos
     
 <p align="left">
   
